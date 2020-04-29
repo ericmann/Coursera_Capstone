@@ -130,3 +130,5 @@ dmypy.json
 
 # Misc
 creds.py
+*.csv
+*.json
